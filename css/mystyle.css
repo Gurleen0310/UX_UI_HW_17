@@ -1,0 +1,44 @@
+.inline-block {
+  display: inline-block;
+  vertical-align: top;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.logo {
+  display: inline-block;
+  width: 23%;
+  padding: 5%;
+}
+.nav {
+  display: inline-block;
+  width: 73%;
+  padding: 5%;
+  background-color: blanchedalmond;
+  align-items: center;
+  justify-content: space-around;
+}
+.li {
+  display: inline-block;
+  width: 50%;
+  margin-left: auto;
+}
+.heromg {
+  height: 300px;
+  padding: 25px;
+}
+.content {
+  width: 1000px;
+  margin: auto;
+}
+footer {
+  background-color: #373738;
+  padding: 3%;
+}
+.inline-block {
+  display: inline-block;
+  vertical-align: bottom;
+}
+.li {
+  display: inline-block;
+  padding: 10px 10px 10px;
+}
+
